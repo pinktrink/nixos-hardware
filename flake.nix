@@ -10,6 +10,7 @@
       apple-macbook-air-6 = import apple/macbook-air/6;
       apple-macbook-pro-10-1 = import ./apple/macbook-pro/10-1;
       apple-macbook-pro-12-1 = import ./apple/macbook-pro/12-1;
+      apple-mac-mini-2014 = import ./apple/mac-mini/2014;
       beagleboard-pocketbeagle = import ./beagleboard/pocketbeagle;
       dell-g3-3779 = import ./dell/g3/3779;
       dell-latitude-3480 = import ./dell/latitude/3480;
